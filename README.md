@@ -22,7 +22,8 @@ Sempre em busca de aprimorar minhas habilidades, tenho experiências acadêmicas
 
 ## 📂 Projetos em Destaque
 
-[**Starbucks**](https://github.com/jussara6/starbucks)
+[**Landing Page Starbucks**](https://github.com/jussara6/starbucks)
+[**Landing Page de porfólio simples**](https://github.com/jussara6/ferias-html.git)
 
 ---
 
