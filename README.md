@@ -22,7 +22,7 @@ Sempre em busca de aprimorar minhas habilidades, tenho experiências acadêmicas
 
 ## 📂 Projetos em Destaque
 
-📁 Meus projetos se encontram nos arquivos deste repositório.
+[**Starbucks**](https://github.com/jussara6/starbucks)
 
 ---
 
