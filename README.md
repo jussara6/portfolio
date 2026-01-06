@@ -24,7 +24,7 @@ Sempre em busca de aprimorar minhas habilidades, tenho experiências acadêmicas
 
 [**Landing Page Starbucks**](https://github.com/jussara6/starbucks)
 
-[**Landing Page de porfólio simples**](https://github.com/jussara6/ferias-html.git)
+[**Landing Page de portfólio simples**](https://github.com/jussara6/ferias-html.git)
 
 ---
 
