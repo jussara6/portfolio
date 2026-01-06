@@ -30,7 +30,7 @@ Sempre em busca de aprimorar minhas habilidades, tenho experiências acadêmicas
 
 ## 🌐 Conecte-se comigo
 
-🔗 **Meu LinkedIn:** [Clique aqui](https://www.linkedin.com)
+🔗 **[Meu LinkedIn](https://www.linkedin.com)**
 
 ---
 
